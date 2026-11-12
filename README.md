@@ -5,8 +5,8 @@
 ---
 
 ### 🎓 Education
-- **Ph.D.** | Xiamen University (厦大) — Molecular Biology & Bioinformatics
-- **M.S. & B.S.** | Lanzhou University (兰州大学) — Life Sciences
+- **Ph.D.** | Xiamen University — Molecular Biology & Bioinformatics
+- **M.S. & B.S.** | Lanzhou University — Life Sciences
 
 ---
 
