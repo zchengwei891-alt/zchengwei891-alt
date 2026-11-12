@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋, I'm Chengwei Zhang (张成伟)
 
-<!--
-**zchengwei891-alt/zchengwei891-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<I am a bioinformatics and molecular biology researcher based in Xiamen, Fujian, China. My research bridges computational biology and wet-lab experiments, focusing on multi-omics data analysis, human commensal microbiota, host-microbe interactions, and tumor immunology.>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests & Background
+- **Affiliation:** Xiamen University (厦大)
+- **Bioinformatics & Computational Biology:**
+  - Genomics, Transcriptomics (scRNA-seq, bulk RNA-seq), and Metagenomics (Kraken2, HUMAnN3, MetaPhlAn).
+  - Post-GWAS analysis, Mendelian Randomization (MR), and multi-omics integration.
+- **Wet-Lab Molecular Biology:**
+  - Cellular & molecular biology experiments, tumor immunology assays, and gut microbiota validation models.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages & Scripting:** R (`DESeq2`, `Seurat`, `ggplot2`), Python (`pandas`, `PyMOL`), Linux Shell.
+- **Workstation & Infrastructure:** High-performance computing, Docker, Git.
+
+---
+
+### 📊 GitHub Stats
+![Chengwei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zchengwei891-alt&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: zchengwei891@gmail.com
