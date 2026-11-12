@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Chengwei Zhang (张成伟)
+### Hi there 👋, I'm Chengwei Zhang 
 
 <I am a bioinformatics and molecular biology researcher based in Xiamen, Fujian, China. My research bridges computational biology and wet-lab experiments, focusing on multi-omics data analysis, human commensal microbiota, host-microbe interactions, and tumor immunology.>
 
